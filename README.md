@@ -8,6 +8,8 @@ When the chatbot has limited information about a user’s style or content, it g
 
 The chatbot’s goal is to leave the user’s original text as unchanged as possible, only making minor adjustments for grammar and coherence. It saves both the user’s written portions and the initial topics/questions provided, building a tailored, evolving database for each user.
 
+![Demo](demo.png)
+
 ## Getting Started
 
 Follow these steps to clone the repository, install dependencies, and set up the OpenAI API key for local development.
