@@ -28,15 +28,14 @@ Create a .env file in the root directory of the project.
 
 Add your OpenAI API key in the .env file:
 
-    ```bash
-    REACT_APP_OPENAI_API_KEY=your_openai_api_key_here
-    ```
+       ```bash
+   REACT_APP_OPENAI_API_KEY=your_openai_api_key_here
+   ```
+
 
 ### Run the application
 
-    ```bash
     npm start
-    ```
 
 ## Usage
 
