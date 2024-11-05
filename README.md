@@ -44,9 +44,13 @@ Add your OpenAI API key in the .env file:
 - **Editable Placeholders**: If the assistant lacks sufficient information to complete a response, it will create a template with `textarea` placeholders. You can edit these placeholders directly to add missing details.
 - **Clear Chat**: Use the "Clear Chat" button to remove all messages from the screen.
 
-## Notes
+## Note
 
-This app is designed to use OpenAI's gpt-3.5-turbo model. Ensure your OpenAI account has access to this model and sufficient API credits.
+This is just starter code for my all-inclusive vision for a content writing chatbot! Building the final project including
+- Individual Log-ins
+- PDF's parsing
+- Personalized RAG databases
+- Updating restrictions on empty spaces left by the chatbot based on available data
 
 ## License
 
