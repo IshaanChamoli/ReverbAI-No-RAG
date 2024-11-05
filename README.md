@@ -1,4 +1,4 @@
-# ReVerbAI Personalized Content Writing Assistant <br>
+# ReVerbAI Personalized Content Writing Assistant
 The content writing assistance that learns FROM you, to write FOR you...
 <hr>
 
