@@ -145,7 +145,7 @@ User's personal database: ${personalDatabase}`;
       <div className="chat-header">
         <div>
           <h1>ReVerb AI</h1>
-          <i><h4>The content writing assistance that learns <b>from</b> you, to write <b>for</b> you...</h4></i>
+          <i><h4>The content writing assistant that learns <b>from</b> you, to write <b>for</b> you...</h4></i>
         </div>
         <button onClick={handleClearChat} className="clear-chat">Clear Chat</button>
         <label htmlFor="file-upload" className="file-upload-label">Upload .txt</label>
