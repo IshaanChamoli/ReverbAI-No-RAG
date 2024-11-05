@@ -52,7 +52,3 @@ This is just starter code for my all-inclusive vision for a content writing chat
 - Personalized RAG databases
 - Updating restrictions on empty spaces left by the chatbot based on available data
 
-## License
-
-This project is licensed under the MIT License.
-
