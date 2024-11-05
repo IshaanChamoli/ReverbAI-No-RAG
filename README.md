@@ -34,9 +34,9 @@ Add your OpenAI API key in the .env file:
 
 ### Run the application
 
-    ```bash
+
     npm start
-    ```
+
 
 ## Usage
 
