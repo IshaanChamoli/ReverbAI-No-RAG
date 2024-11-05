@@ -28,14 +28,15 @@ Create a .env file in the root directory of the project.
 
 Add your OpenAI API key in the .env file:
 
-       ```bash
-   REACT_APP_OPENAI_API_KEY=your_openai_api_key_here
-   ```
-
+    ```plaintext
+    REACT_APP_OPENAI_API_KEY=your_openai_api_key_here
+    ```
 
 ### Run the application
 
+    ```bash
     npm start
+    ```
 
 ## Usage
 
@@ -46,7 +47,7 @@ Add your OpenAI API key in the .env file:
 
 ## Notes
 
-This app is designed to use OpenAI's `gpt-3.5-turbo` model. Ensure your OpenAI account has access to this model and sufficient API credits.
+This app is designed to use OpenAI's gpt-3.5-turbo model. Ensure your OpenAI account has access to this model and sufficient API credits.
 
 ## License
 
