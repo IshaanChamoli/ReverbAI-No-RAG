@@ -1,5 +1,6 @@
-# ReVerbAI Personalized Content Writing Assistant
-# The content writing assistance that learns FROM you, to write FOR you...
+# ReVerbAI Personalized Content Writing Assistant <br>
+The content writing assistance that learns FROM you, to write FOR you...
+<hr>
 
 This content writer chatbot helps users rewrite content with minimal changes, using their own previously written text. It functions as a personalized assistant that adapts its responses based on the amount of user-provided content it has.
 
