@@ -21,3 +21,35 @@ Ensure you have **Node.js** and **npm** installed.
    cd ReverbAI-No-RAG
    npm install
    ```
+
+### Add OpenAI API Key
+
+Create a .env file in the root directory of the project.
+
+Add your OpenAI API key in the .env file:
+
+    ```bash
+    REACT_APP_OPENAI_API_KEY=your_openai_api_key_here
+    ```
+
+### Run the application
+
+    ```bash
+    npm start
+    ```
+
+## Usage
+
+- **Upload a `.txt` File**: Click the "Upload .txt" button to upload a personal `.txt` file containing your own content. This file acts as a database for the assistant to use when generating responses.
+- **Generate Content**: Type a question or topic in the text area and click "Send." The assistant will reference your `.txt` file to generate a response, rephrasing your content where possible or using placeholders when necessary.
+- **Editable Placeholders**: If the assistant lacks sufficient information to complete a response, it will create a template with `textarea` placeholders. You can edit these placeholders directly to add missing details.
+- **Clear Chat**: Use the "Clear Chat" button to remove all messages from the screen.
+
+## Notes
+
+This app is designed to use OpenAI's `gpt-3.5-turbo` model. Ensure your OpenAI account has access to this model and sufficient API credits.
+
+## License
+
+This project is licensed under the MIT License.
+
